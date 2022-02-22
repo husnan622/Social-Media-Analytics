@@ -1,0 +1,30 @@
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\Social Blade Dashboard.exe.config
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\Social Blade Dashboard.exe
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\Social Blade Dashboard.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\LiveCharts.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\LiveCharts.Wpf.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\MaterialDesignColors.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\LiveCharts.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\LiveCharts.xml
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\LiveCharts.Wpf.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\LiveCharts.Wpf.xml
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\MaterialDesignColors.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.csproj.SuggestedBindingRedirects.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Dashboard.g.cs
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\MainWindow.g.cs
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\App.g.cs
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard_MarkupCompile.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard_MarkupCompile.lref
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\App.baml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Dashboard.baml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\MainWindow.baml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.g.resources
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social_Blade_Dashboard.Properties.Resources.resources
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.csproj.GenerateResource.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.csproj.CoreCompileInputs.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.csproj.CopyComplete
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.exe
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Release\Social Blade Dashboard.pdb

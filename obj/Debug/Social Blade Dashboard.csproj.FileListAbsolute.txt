@@ -1,0 +1,31 @@
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\Social Blade Dashboard.exe.config
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\Social Blade Dashboard.exe
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\Social Blade Dashboard.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\LiveCharts.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\LiveCharts.Wpf.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\MaterialDesignColors.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\LiveCharts.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\LiveCharts.xml
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\LiveCharts.Wpf.xml
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\MaterialDesignColors.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.csproj.SuggestedBindingRedirects.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\MainWindow.g.cs
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\App.g.cs
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard_MarkupCompile.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard_MarkupCompile.lref
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\App.baml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\MainWindow.baml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.g.resources
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social_Blade_Dashboard.Properties.Resources.resources
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.csproj.GenerateResource.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.csproj.CoreCompileInputs.cache
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.csproj.CopyComplete
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.exe
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.pdb
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Dashboard.g.cs
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Dashboard.baml
+D:\My Learning\Aplikasi\Social Blade Dashboard\obj\Debug\Social Blade Dashboard.csproj.AssemblyReference.cache
